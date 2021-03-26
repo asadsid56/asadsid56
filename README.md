@@ -1,11 +1,11 @@
 
 
-<h1 align="center"> Profile
+<h1 align="center"> Profile</h1>
   <img src="Title.png"/>
-</h1>
 
-<h1 align="center"> Techno
+
+<h1 align="center"> Techno</h1>
   <img src="techo.png"/>
-</h1>
+
 
 
