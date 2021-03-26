@@ -6,6 +6,10 @@
 
 <h1 align="center"> Techno</h1>
   <img src="Techonology.png"/>
-
+  
+  <h1 align="center">Hobby</h1>
+  <img src="hobby1.png"/>
+  <img src="hobby2.png"/>
+  <img src="hobby3.png"/>
 
 
