@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center"> Techno
-  <img src="techno.png"/>
+  <img src="techo.png"/>
 </h1>
 
 
