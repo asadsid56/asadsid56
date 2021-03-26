@@ -7,8 +7,12 @@
 <h1 align="center"> Techno</h1>
   <img src="Techonology.png"/>
   
-  <h1 align="center">Hobby</h1>
+ <h1 align="center">Hobby</h1>
 <p align="center">
   <img src="Hobby.png"/>
 </p>
 
+ <h1 align="center">Language</h1>
+<p align="center">
+  <img src="Typo.png"/>
+</p>
