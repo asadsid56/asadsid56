@@ -4,8 +4,8 @@
   <img src="Title.png"/>
 </h1>
 
-<p align="center"> Techno
+<h1 align="center"> Techno
   <img src="techno.png"/>
-</p>
+</h1>
 
 
