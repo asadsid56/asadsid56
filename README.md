@@ -9,8 +9,6 @@
   
   <h1 align="center">Hobby</h1>
 <p align="center">
-  <img src="hobby1.png"/>
-  <img src="hobby2.png"/>
-  <img src="hobby3"/>
+  <img src="hobby.png"/>
 </p>
 
