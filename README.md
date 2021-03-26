@@ -9,6 +9,6 @@
   
   <h1 align="center">Hobby</h1>
 <p align="center">
-  <img src="hobby.png"/>
+  <img src="Hobby.png"/>
 </p>
 
