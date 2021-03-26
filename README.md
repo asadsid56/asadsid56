@@ -14,5 +14,5 @@
 
  <h1 align="center">Language</h1>
 <p align="center">
-  <img src="Typo(1).png"/>
+  <img src="Typo (1).png"/>
 </p>
