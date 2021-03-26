@@ -11,6 +11,6 @@
 <p align="center">
   <img src="hobby1.png"/>
   <img src="hobby2.png"/>
-  <img src="hobby3.png"/>
+  <img src="hobby3"/>
 </p>
 
